@@ -1,0 +1,11 @@
+{
+  "name": "liuya",
+  "version": "1.0.0",
+  "description": "这是我的实验基地",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
